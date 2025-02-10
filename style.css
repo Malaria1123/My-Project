@@ -1,0 +1,63 @@
+body {
+    background-image: url("bround.png");
+    color: #59342b;
+    font-family: 'Inter' , serif;
+  }
+
+  .sub-title {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 1.5rem;
+
+    padding: 8px 80px;
+    border-radius: 10px;
+    margin: 80px;
+    margin-bottom: 60px;
+  }
+
+  .center {
+    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; ;
+    font-size: 3.5rem;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 5px;
+  }
+
+  .bio {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 50px;
+  }
+
+  #more-container {
+    text-align: center;
+  }
+
+  .more-button, .result-button {
+    background-color: white;
+    color: #69443C;
+    font-size: 1rem;
+
+    padding: 8px 28px;
+    border-color: #69443C;
+    border-radius: 25px;
+  }
+.more-button:hover {
+  background-color: #283c67;
+  color: white;
+  border-color: antiquewhite;
+
+  
+}
+
+.social-links {
+  text-align: center;
+
+  padding: 25px;
+} 
+
+    
+
